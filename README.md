@@ -1,2 +1,2 @@
-An implementing the Spkmeans clustering algorithm.
+An implementation of the Spkmeans clustering algorithm.
 Worked on it with @tomersarusi.
